@@ -17,3 +17,5 @@ https://taylorstrubhar.github.io/run-buddy-2/
 ## Contribution
 
 Made with ❤️ by Taylor Strubhar
+
+### ©️2019 Run Buddy, Inc
